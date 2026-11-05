@@ -1,0 +1,7 @@
+{
+  "name": "ClimbAnything",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Grip next to any wall, ledge or ceiling to climb it",
+  "dependencies": ["LavaGang-MelonLoader-0.7.3"]
+}
